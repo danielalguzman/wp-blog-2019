@@ -1,6 +1,6 @@
 <?php
 /**
- * The base configuration for WordPress esta es una prueba mas por que no queiso la otra madre
+ * The base configuration for WordPress
  *
  * The wp-config.php creation script uses this file during the
  * installation. You don't have to use the web site, you can
@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'wp-blog-2019' );
 
 /** MySQL database username */
-define( 'DB_USER', 'admin' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '46d35b8a5fd02baeb33b2724e31003296c9ae276c3ae0ec8' );
+define( 'DB_PASSWORD', '' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
@@ -46,14 +46,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'DKw@XJN:HO=D5OUnaFR($N6{P3(~:n9-81oM~DXKZIKM!`n*C-RO#:+hQ<8cUEj6' );
-define( 'SECURE_AUTH_KEY',  '9{:&q)?fb3vOr/}$<Y-,&d:?_sp{dA9cD4|IR1S|P9XjvMVC*T#T}h:H0M6c(v.!' );
-define( 'LOGGED_IN_KEY',    'fE:?L}gQM-CYyqh6Dm$?6WiI^}ZRe8&P{g-#RB#pbKLAK>H7te%S97GN>tEF[~_a' );
-define( 'NONCE_KEY',        '=j^Wq_LOa>@eV!9N<&W&h}3iA8%-enFgYggrnn}GUtKu2Y$i^+OFu?{dFFi{Bef{' );
-define( 'AUTH_SALT',        'YRn):g6=}Vdg:kh 30QH63V:YDh_R!r_A%/mYwkxDo`X2%BzTEOp9-6O7&Lzn {=' );
-define( 'SECURE_AUTH_SALT', 'rQLq)cfgyP2b3{jmXY9-3@e~s*3xL595oG]k.IP-,=};sD3I3~)#+>wgPOij#|hh' );
-define( 'LOGGED_IN_SALT',   'Qeu_N@!rGP#?)/4m!/scM;9jIN@~A&qOHOEa=&E}hm6}<#1C(df|1^]vN(53y1zV' );
-define( 'NONCE_SALT',       '6yo2kg[ZukzYIYyG? G%>V:O/UwCkLR#cMXjFn,8,CeG:vv=6jCHDRvyjW9qg7 *' );
+define( 'AUTH_KEY',         '/{HHhO/GQGI:z!fBs.~8lG*qBV8H|=Px_bETHm8dm:l=0TJTNO[6Jgg2`r%GZozS' );
+define( 'SECURE_AUTH_KEY',  '}>=!w!6(r.%JLH|5+#pP<;JU|(eqoN9`1}>GR5yt<$Z(8?Uf+Pes vwt|#6W|?bM' );
+define( 'LOGGED_IN_KEY',    ',d KuQ*m:6>o/C{&yaVhy,&@C`@m{`A44R7(=t=^1~NljVVIZx</lRf`7}>K{;Nc' );
+define( 'NONCE_KEY',        'S;faKY-SaZbbc<9zru;pefMmp]}C/B{LK5r-mSr$ex>iiu7uVdQuinMf,VW(4g3U' );
+define( 'AUTH_SALT',        'p:#,]$F#Y,Z&%c@tb_ NH5<,n]6eZs*&!J+NWvO}%^/v~H!%s5/.cf95!H+U*1M ' );
+define( 'SECURE_AUTH_SALT', 'UQnY8q+q:}>K]%l$GJ0Sxq~,a|>`#Px!zI A|;h-KU|eJ,}YJO}i2v*rU{;C%mDO' );
+define( 'LOGGED_IN_SALT',   'Bfg/zt@XFB&xLGjus5]pySa9/sbfdn*_0OT~i-!VFas#6S.H>hJZqVW?rgDJ{6+P' );
+define( 'NONCE_SALT',       'ldpE|tQzcD!3lTSy%>`}$7e%L/(0Rar|ZxwwaT!:Vz^)TtJ,iEkkT=_3T1`^sobG' );
 
 /**#@-*/
 

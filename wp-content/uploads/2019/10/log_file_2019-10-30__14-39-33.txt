@@ -1,0 +1,53 @@
+
+---Upload files---
+Redux file was not uploaded. Error: El archivo indicado no cumple los requisitos de subida.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wp-blog-2019
+Data file = C:\xampp\htdocs\wp-blog-2019/wp-content/uploads/2019/10/content.xml
+Widget file = C:\xampp\htdocs\wp-blog-2019/wp-content/uploads/2019/10/widgets.wie
+Customizer file = C:\xampp\htdocs\wp-blog-2019/wp-content/uploads/2019/10/CUSTOM1.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Imagen - Ads Widget - Imported
+Categorías - Categories - Imported
+Galería - Our Gallery - Imported
+Nube de etiquetas - Tag Cloud - Imported
+
+Sidebar Single : 
+
+Imagen - Ads Widgets - Imported
+Categorías - Categories - Imported
+Galería - Our Gallery - Imported
+Nube de etiquetas - Tag Cloud - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
